@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+![ezgif-6-1c4bbf21fb](https://github.com/user-attachments/assets/9370d8a0-c3fa-41cb-9617-35af06cc3140)
 
 <h1 align="center">Hi 👋, I'm Dachi!</h1>
 <h3 align="center">A passionate Web Developer from Georgia.</h3>
