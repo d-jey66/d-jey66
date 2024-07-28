@@ -1,3 +1,4 @@
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/e9e7bcdf-6b74-4aa1-b3e4-66ccbbfe0dd1)
 
 
 <h1 align="center">Hi 👋, I'm Dachi!</h1>
