@@ -1,4 +1,4 @@
-![ezgif-6-1c4bbf21fb](https://github.com/user-attachments/assets/9370d8a0-c3fa-41cb-9617-35af06cc3140)
+
 
 <h1 align="center">Hi 👋, I'm Dachi!</h1>
 <h3 align="center">A passionate Web Developer from Georgia.</h3>
